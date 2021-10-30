@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohamed0-1
+- 👋 Hi, I’m Mohamed Hamdy
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning MEARN Stack
 - 💞️ I’m looking to collaborate on ...
